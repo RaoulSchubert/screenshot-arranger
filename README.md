@@ -1,4 +1,5 @@
 Screenshot/Image Arranger for A4 Printing
+
 This Python script automatically arranges screenshots of 240 x 160 pixels onto A4-sized pages, making them ready for printing at the correct physical dimensions. 
 
 The screenshots can also be resized, for example to match the original Game Boy Advance display size (61.2 mm x 40.8 mm) and organized with margins for an optimal layout.
