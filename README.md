@@ -7,4 +7,7 @@ The screenshots can also be resized, for example to match the original Game Boy 
 Simply place your screenshots in a designated folder, run the script, and it will generate A4 pages with the arranged screenshots, saved as PNG files. This tool is ideal for those looking to print their screenshots in a clean and organized manner.
 
 The standard version is: screenshot arranger original size output.py
+
 For a version with an option to resize the images see: screenshot arranger with resizer.py
+
+I personally use this for language learning and journaling among other things. Feel free to use it in any way you like and contact me if you have any questions or suggestions!
